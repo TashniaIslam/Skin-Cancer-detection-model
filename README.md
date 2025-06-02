@@ -1,4 +1,7 @@
 # Skin-Cancer-detection-model
+
+The link for the HAM10000 dataset is given here: https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
+
 ## Project Overview
 
 Skin cancer affects millions globally, and early detection is crucial. However, access to dermatologists and diagnostic equipment is often limited in remote or under-resourced areas. Our solution leverages deep learning and **knowledge distillation** to create a lightweight model suitable for mobile and web deployment.
